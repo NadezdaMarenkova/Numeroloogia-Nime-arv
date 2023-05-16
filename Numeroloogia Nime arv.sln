@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Numeroloogia Nime arv", "Numeroloogia Nime arv\Numeroloogia Nime arv.pyproj", "{31C75055-BBB1-44D2-98CB-981EE85F17DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31C75055-BBB1-44D2-98CB-981EE85F17DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31C75055-BBB1-44D2-98CB-981EE85F17DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CBF54F82-517F-438F-8AC1-1FDFA213E14B}
+	EndGlobalSection
+EndGlobal
